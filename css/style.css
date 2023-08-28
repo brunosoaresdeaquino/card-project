@@ -293,3 +293,14 @@ body.dark .description {
     display: flex;
     margin-top: 16px;
 }
+
+.final {
+    font-size: 10px;
+    line-height: 100%;
+    margin: 20px 2px;
+
+}
+
+body.dark .final {
+    color: var(--gray);
+}
